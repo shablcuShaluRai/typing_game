@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.highlight {
+  background-color: chartreuse;
+}
+
+.input-error {
+  background-color: crimson;
+}
